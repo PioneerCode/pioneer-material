@@ -1,5 +1,5 @@
 {
-  "name": "datetime-picker",
+  "name": "@pioneer-code/pioneer-material-datetime-picker",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^19.0.0",

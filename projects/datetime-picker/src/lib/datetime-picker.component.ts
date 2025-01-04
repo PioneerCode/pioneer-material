@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-datetime-picker',
+  selector: 'pcpm-datetime-picker',
   imports: [],
   template: `
     <p>
@@ -10,6 +10,6 @@ import { Component } from '@angular/core';
   `,
   styles: ``
 })
-export class DatetimePickerComponent {
+export class PioneerMaterialDatetimePicker {
 
 }
